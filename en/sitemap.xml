@@ -2,49 +2,49 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://bou-baoer.github.io/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
+            <loc>https://example.com/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://bou-baoer.github.io/zh-cn/"
+                        href="https://example.com/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://bou-baoer.github.io/"
+                    href="https://example.com/"
                     /></url><url>
-            <loc>http://bou-baoer.github.io/posts/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
+            <loc>https://example.com/posts/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://bou-baoer.github.io/zh-cn/posts/hugo/"
+                        href="https://example.com/zh-cn/posts/hugo/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://bou-baoer.github.io/posts/hugo/"
+                    href="https://example.com/posts/hugo/"
                     /></url><url>
-            <loc>http://bou-baoer.github.io/posts/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
+            <loc>https://example.com/posts/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://bou-baoer.github.io/zh-cn/posts/"
+                        href="https://example.com/zh-cn/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://bou-baoer.github.io/posts/"
+                    href="https://example.com/posts/"
                     /></url><url>
-            <loc>http://bou-baoer.github.io/posts/first_post/</loc><lastmod>2020-07-02T05:38:41-07:00</lastmod></url><url>
-            <loc>http://bou-baoer.github.io/categories/</loc><xhtml:link
+            <loc>https://example.com/posts/first_post/</loc><lastmod>2020-07-02T05:38:41-07:00</lastmod></url><url>
+            <loc>https://example.com/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://bou-baoer.github.io/zh-cn/categories/"
+                        href="https://example.com/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://bou-baoer.github.io/categories/"
+                    href="https://example.com/categories/"
                     /></url><url>
-            <loc>http://bou-baoer.github.io/tags/</loc><xhtml:link
+            <loc>https://example.com/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://bou-baoer.github.io/zh-cn/tags/"
+                        href="https://example.com/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://bou-baoer.github.io/tags/"
+                    href="https://example.com/tags/"
                     /></url></urlset>

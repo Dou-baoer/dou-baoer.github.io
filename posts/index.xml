@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Doubaoer&#39;s BLOG</title>
-        <link>http://bou-baoer.github.io/posts/</link>
+        <link>https://example.com/posts/</link>
         <description>All Posts | Doubaoer&#39;s BLOG</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Jul 2020 13:37:55 -0700</lastBuildDate><atom:link href="http://bou-baoer.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Jul 2020 13:37:55 -0700</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hugo command</title>
-    <link>http://bou-baoer.github.io/posts/hugo/</link>
+    <link>https://example.com/posts/hugo/</link>
     <pubDate>Thu, 02 Jul 2020 13:37:55 -0700</pubDate>
     <author>Author</author>
-    <guid>http://bou-baoer.github.io/posts/hugo/</guid>
+    <guid>https://example.com/posts/hugo/</guid>
     <description><![CDATA[It&rsquo;s must be in the install blog path. e.g. /home/jxie/blog
 1. Start local server $ hugo server
 then you can in brose by localhost:1313 see the local bolg.
@@ -18,10 +18,10 @@ to live your editing of the page.
 2. Create a new post $ hugo new posts/Hugo.md]]></description>
 </item><item>
     <title>First_post</title>
-    <link>http://bou-baoer.github.io/posts/first_post/</link>
+    <link>https://example.com/posts/first_post/</link>
     <pubDate>Thu, 02 Jul 2020 05:38:41 -0700</pubDate>
     <author>Author</author>
-    <guid>http://bou-baoer.github.io/posts/first_post/</guid>
+    <guid>https://example.com/posts/first_post/</guid>
     <description><![CDATA[Hello World!]]></description>
 </item></channel>
 </rss>

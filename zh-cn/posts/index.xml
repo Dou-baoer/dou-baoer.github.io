@@ -1,20 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - Doubaoer&#39;s BLOG</title>
-        <link>http://bou-baoer.github.io/zh-cn/posts/</link>
+        <link>https://example.com/zh-cn/posts/</link>
         <description>所有文章 | Doubaoer&#39;s BLOG</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Jul 2020 13:37:55 -0700</lastBuildDate><atom:link href="http://bou-baoer.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Jul 2020 13:37:55 -0700</lastBuildDate><atom:link href="https://example.com/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hugo command</title>
-    <link>http://bou-baoer.github.io/zh-cn/posts/hugo/</link>
+    <link>https://example.com/zh-cn/posts/hugo/</link>
     <pubDate>Thu, 02 Jul 2020 13:37:55 -0700</pubDate>
     <author>作者</author>
-    <guid>http://bou-baoer.github.io/zh-cn/posts/hugo/</guid>
-    <description><![CDATA[It&rsquo;s must be in the install blog path. e.g. /home/jxie/blog
-1. Start local server $ hugo server
-then you can in brose by localhost:1313 see the local bolg.
-or use:
-$ hugo server --disableFastRender
-to live your editing of the page.
-2. Create a new post $ hugo new posts/Hugo.md]]></description>
+    <guid>https://example.com/zh-cn/posts/hugo/</guid>
+    <description><![CDATA[必须在blog的安装目录下进行. 如. /home/jxie/blog 1. Start local server $ hugo server then you can in brose by localhost:1313 see the local bolg. or use: $ hugo server --disableFastRender to live your editing of the page. 2. Create a new post $ hugo new posts/Hugo.md]]></description>
 </item></channel>
 </rss>
