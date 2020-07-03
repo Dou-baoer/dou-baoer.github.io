@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
+            <loc>https://example.com/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://example.com/zh-cn/"
@@ -11,6 +11,16 @@
                     hreflang="en"
                     href="https://example.com/"
                     /></url><url>
+            <loc>https://example.com/posts/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://example.com/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://example.com/posts/"
+                    /></url><url>
+            <loc>https://example.com/posts/update-blog/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
             <loc>https://example.com/posts/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -19,15 +29,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://example.com/posts/hugo/"
-                    /></url><url>
-            <loc>https://example.com/posts/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://example.com/zh-cn/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://example.com/posts/"
                     /></url><url>
             <loc>https://example.com/posts/first_post/</loc><lastmod>2020-07-02T05:38:41-07:00</lastmod></url><url>
             <loc>https://example.com/categories/</loc><xhtml:link
