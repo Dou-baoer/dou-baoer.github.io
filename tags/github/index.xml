@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>github - Tag - Doubaoer&#39;s BLOG</title>
+        <link>https://example.com/tags/github/</link>
+        <description>github - Tag - Doubaoer&#39;s BLOG</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Jul 2020 08:07:42 -0700</lastBuildDate><atom:link href="https://example.com/tags/github/" rel="self" type="application/rss+xml" /><item>
+    <title>How to update the Blog</title>
+    <link>https://example.com/posts/update-blog/</link>
+    <pubDate>Fri, 03 Jul 2020 08:07:42 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/posts/update-blog/</guid>
+    <description><![CDATA[<p>When you in <code>/blog/content/posts</code> write a new post and want to update this post in your github website.</p>]]></description>
+</item></channel>
+</rss>
