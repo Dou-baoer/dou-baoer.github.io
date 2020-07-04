@@ -2,7 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/tags/blog/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
+            <loc>https://example.com/tags/blog/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://example.com/zh-cn/tags/blog/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://example.com/tags/blog/"
+                    /></url><url>
             <loc>https://example.com/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -12,8 +20,24 @@
                     hreflang="en"
                     href="https://example.com/"
                     /></url><url>
-            <loc>https://example.com/tags/git/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
-            <loc>https://example.com/tags/github/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
+            <loc>https://example.com/tags/git/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://example.com/zh-cn/tags/git/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://example.com/tags/git/"
+                    /></url><url>
+            <loc>https://example.com/tags/github/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://example.com/zh-cn/tags/github/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://example.com/tags/github/"
+                    /></url><url>
             <loc>https://example.com/posts/update-blog/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
             <loc>https://example.com/posts/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
                         rel="alternate"
@@ -33,7 +57,15 @@
                     hreflang="en"
                     href="https://example.com/tags/"
                     /></url><url>
-            <loc>https://example.com/tags/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod></url><url>
+            <loc>https://example.com/tags/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://example.com/zh-cn/tags/hugo/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://example.com/tags/hugo/"
+                    /></url><url>
             <loc>https://example.com/posts/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"

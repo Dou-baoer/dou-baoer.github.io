@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Doubaoer&#39;s BLOG</title>
-        <link>https://example.com/zh-cn/posts/</link>
-        <description>所有文章 | Doubaoer&#39;s BLOG</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Jul 2020 08:07:42 -0700</lastBuildDate><atom:link href="https://example.com/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>BLOG - 标签 - Doubaoer&#39;s BLOG</title>
+        <link>https://example.com/zh-cn/tags/blog/</link>
+        <description>BLOG - 标签 - Doubaoer&#39;s BLOG</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Jul 2020 08:07:42 -0700</lastBuildDate><atom:link href="https://example.com/zh-cn/tags/blog/" rel="self" type="application/rss+xml" /><item>
     <title>如何在github更新博客</title>
     <link>https://example.com/zh-cn/posts/update-bolg/</link>
     <pubDate>Fri, 03 Jul 2020 08:07:42 -0700</pubDate>
