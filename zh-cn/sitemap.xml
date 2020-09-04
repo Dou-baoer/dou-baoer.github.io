@@ -2,6 +2,36 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://example.com/zh-cn/tags/commands/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod></url><url>
+            <loc>https://example.com/zh-cn/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://example.com/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://example.com/zh-cn/"
+                    /></url><url>
+            <loc>https://example.com/zh-cn/tags/linux/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod></url><url>
+            <loc>https://example.com/zh-cn/posts/linux-commands/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod></url><url>
+            <loc>https://example.com/zh-cn/posts/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://example.com/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://example.com/zh-cn/posts/"
+                    /></url><url>
+            <loc>https://example.com/zh-cn/tags/</loc><lastmod>2020-09-04T05:25:24-07:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://example.com/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://example.com/zh-cn/tags/"
+                    /></url><url>
             <loc>https://example.com/zh-cn/tags/blog/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -10,15 +40,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://example.com/zh-cn/tags/blog/"
-                    /></url><url>
-            <loc>https://example.com/zh-cn/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://example.com/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://example.com/zh-cn/"
                     /></url><url>
             <loc>https://example.com/zh-cn/tags/git/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
                         rel="alternate"
@@ -37,24 +58,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://example.com/zh-cn/tags/github/"
-                    /></url><url>
-            <loc>https://example.com/zh-cn/posts/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://example.com/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://example.com/zh-cn/posts/"
-                    /></url><url>
-            <loc>https://example.com/zh-cn/tags/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://example.com/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/"
                     /></url><url>
             <loc>https://example.com/zh-cn/posts/update-bolg/</loc><lastmod>2020-07-03T08:07:42-07:00</lastmod></url><url>
             <loc>https://example.com/zh-cn/tags/hugo/</loc><lastmod>2020-07-02T13:37:55-07:00</lastmod><xhtml:link

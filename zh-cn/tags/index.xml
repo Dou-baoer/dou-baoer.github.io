@@ -3,7 +3,21 @@
         <title>Tags - 标签 - Doubaoer&#39;s BLOG</title>
         <link>https://example.com/zh-cn/tags/</link>
         <description>Tags - 标签 - Doubaoer&#39;s BLOG</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Jul 2020 08:07:42 -0700</lastBuildDate><atom:link href="https://example.com/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 04 Sep 2020 05:25:24 -0700</lastBuildDate><atom:link href="https://example.com/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>commands</title>
+    <link>https://example.com/zh-cn/tags/commands/</link>
+    <pubDate>Fri, 04 Sep 2020 05:25:24 -0700</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/zh-cn/tags/commands/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Linux</title>
+    <link>https://example.com/zh-cn/tags/linux/</link>
+    <pubDate>Fri, 04 Sep 2020 05:25:24 -0700</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/zh-cn/tags/linux/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>BLOG</title>
     <link>https://example.com/zh-cn/tags/blog/</link>
     <pubDate>Fri, 03 Jul 2020 08:07:42 -0700</pubDate>
